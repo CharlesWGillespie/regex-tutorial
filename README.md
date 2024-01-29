@@ -52,6 +52,8 @@ Let's break down the relevant part of the pattern:
 2. `|`: The vertical bar serves as the OR operator, indicating an alternative option.
 3. `[a-f0-9]{3}`: This part matches exactly three alphanumeric characters (0-9, a-f).
 
+Just like in hex code you can input 6 characters or 3 characvters and you will still get a color!
+
 ### Character Classes
 
 ### Flags
